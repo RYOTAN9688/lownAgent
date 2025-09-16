@@ -1,0 +1,3 @@
+# Git管理から除外するフォルダとファイル
+.streamlit/
+__pycache
